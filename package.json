@@ -1,0 +1,16 @@
+{
+  "name": "web-dev-3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Nimish",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.0",
+    "dotenv": "^17.4.2"
+  }
+}
