@@ -1,33 +1,26 @@
-# Web Development - Assignment 2
+# ⚡ WEB DEV — ASSIGNMENT 02
 
-## 📌 About the Project
+> `Turning caffeine ☕ into questionable amounts of code.`
 
-This project is developed as part of the Web Development course.
-It demonstrates the use of HTML, CSS and JavaScript to build a
-responsive and interactive web application.
+<div align="center">
 
-## 🚀 Features
+### 🧠 CODE. CREATE. BREAK. FIX. REPEAT.
 
-- Clean and responsive user interface
-- Interactive web components
-- User-friendly navigation
-- Structured HTML layout
-- Custom CSS styling
-- JavaScript functionality
+![HTML](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🛠️ Technologies Used
+</div>
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+---
 
-## 📂 Project Structure
+## 🧪 WHAT IS THIS?
+
+Welcome to **Assignment 02**.
+
+A small web project created with:
 
 ```text
-Assignment 2/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+HTML     → Structure 🧱
+CSS      → Drip 🎨
+JavaScript → CHAOS ⚡
